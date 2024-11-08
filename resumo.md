@@ -82,7 +82,7 @@
 3. __Modelo__ (encapsula a função)
 4. __Inferência de dados__ (recursos não rotulados), __Predição__ (rótulo inteiro)
 
-![alt text](image.png)
+![alt text](img/image.png)
 
 ### Treinamento e avaliação de modelo
 
@@ -145,13 +145,13 @@ Objetivos:
 - uma imagem é uma matiz de valores de pixels
 - Filtros são aplicados para alterar as imagens
 
-![alt text](image-2.png)
+![alt text](img/image-2.png)
 
 - Uma foto preta e branca de uma cidade
 - Uma foto preta e branca de uma cidade grande
 - Um grande edifício em uma cidade 
 
-![alt text](image-3.png)
+![alt text](img/image-3.png)
 
 
 ### Redes Neurais convolucionais
@@ -162,7 +162,7 @@ Objetivos:
 4. Os valores dos recursos são alimentados em uma rede neural totalmente conectada.
 5. A camada de saída produz um valor de probabilidade para cada rótulo de classe possível
 
-![alt text](image-4.png)
+![alt text](img/image-4.png)
 
 
 ### Modelos Multimodais (AI vision)
@@ -172,7 +172,7 @@ Interpretação do que está acontecendo em um vídeo
 - O modelo encapsula relações semânticas entre recursos extraídos das imagens e texto extraído de legendas relacionadas.
 - Um modelo multimodal pode ser usado como modelo base para modelos adaptativos mais expecializados.
 
-![alt text](image-5.png)
+![alt text](img/image-5.png)
 
 
 ### Serviços de visão computacional no Azure
@@ -201,30 +201,30 @@ __Face__
 ### O que é processamento de linguagem natural?
 
 
-![alt text](image-6.png)
+![alt text](img/image-6.png)
 
 
 ### Processamento de Linguagem natural e IA conversacional no azure - Análise de sentimentos e respostas a perguntas
 
 - NER (Reconhecimento de Entidade Nomeada)
 
-![alt text](image-7.png)
+![alt text](img/image-7.png)
 
 - Detecção de PII e PHI
 
-![alt text](image-8.png)
+![alt text](img/image-8.png)
 
 - Detecção de idioma
 
-![alt text](image-9.png)
+![alt text](img/image-9.png)
 
 - Análise de sentimentos
 
-![alt text](image-10.png)
+![alt text](img/image-10.png)
 
 - Respostas a perguntas
 
-![alt text](image-11.png)
+![alt text](img/image-11.png)
 
 ### Processamento de Linguagem natural e IA conversacional no azure - Fala
 
@@ -247,7 +247,7 @@ __Face__
 
 * O problema:
 
-![alt text](image-12.png)
+![alt text](img/image-12.png)
 
 
 
@@ -318,16 +318,16 @@ O termo engenharia de prompt descreve o processo de aprimoramento de prompts.
 - Os desenvolvedores que projetam aplicativos e consumidores que usam aplicativos podem aprimorar a qualidade das respostas da IA gerativa usando linguagem direta, mensagens do sistema, exemplos e/ou dados de fundamentação.
 
 
-![alt text](image-15.png)
+![alt text](img/image-15.png)
 
 
-![alt text](image-16.png)
+![alt text](img/image-16.png)
 
 
-![alt text](image-17.png)
+![alt text](img/image-17.png)
 
 
-![alt text](image-18.png)
+![alt text](img/image-18.png)
 
 
 ### Modelos de linguagem grandes LLM
@@ -354,7 +354,7 @@ Os aplicativos de IA gerativa são alimentados por LLMs, que são um tipo especi
 * No decodificador, essas relações são usadas para prever a sequência mais provável de tokens.
 
 
-![alt text](image-13.png)
+![alt text](img/image-13.png)
 
 
 #### Tokenização
@@ -383,7 +383,7 @@ Frase de exemplo: Eu ouvi um cachorro latir alto para um gato.
 - As relaçõs entre tokens são capturadas como vetores, conhecidas como inserções.
 
 
-![alt text](image-14.png)
+![alt text](img/image-14.png)
 
 
 #### Atenção
@@ -423,13 +423,13 @@ Você pode usar vários métodos para desenvolver soluções do Azure OpenAI:
 
 A quais modelos o OpenAI do Azure dá suporte?
 
-![GPT-4](image-19.png)
+![GPT-4](img/image-19.png)
 
-![GPT-3.5](image-20.png)
+![GPT-3.5](img/image-20.png)
 
-![Incorporações](image-21.png)
+![Incorporações](img/image-21.png)
 
-![DALL-E](image-22.png)
+![DALL-E](img/image-22.png)
 
 
 ### Como usar o OpenAI do Azure
@@ -449,16 +449,16 @@ A quais modelos o OpenAI do Azure dá suporte?
 Os modelos de GPT (transformadores pré-treinados generativos) são excelentes para entender e criar linguagem natural.
 
 
-![alt text](image-23.png)
+![alt text](img/image-23.png)
 
-![alt text](image-24.png)
+![alt text](img/image-24.png)
 
 - Os modelos GPT traduzem linguagem natural ou trechos de código em código.
 - A geração de código vai além de apenas escrever código a partir de prompts em linguagem natural.
 
-![alt text](image-25.png)
+![alt text](img/image-25.png)
 
-![alt text](image-26.png)
+![alt text](img/image-26.png)
 
 
 ### Funcionalidades de imagem da OpenAI do azure

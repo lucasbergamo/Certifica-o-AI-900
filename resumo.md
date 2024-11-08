@@ -86,7 +86,7 @@
 
 ### Treinamento e avaliação de modelo
 
-![alt text]([image-1.png](https://github.com/lucasbergamo/Dio_AI-900/blob/main/img/image-1.png))
+![alt text](img/image-1.png)
 
 ### Aprendizado Profundo
 
